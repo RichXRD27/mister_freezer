@@ -15,5 +15,5 @@ mayo
 junio
 julio
 
-corazón
-canción
+coraz&oacute;n
+canci&oacute;n
