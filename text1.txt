@@ -16,6 +16,7 @@ junio
 julio
 agosto
 septiembre
+octubre
 
 coraz&oacute;n
 canci&oacute;n
