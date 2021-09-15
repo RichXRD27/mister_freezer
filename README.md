@@ -1,2 +1,8 @@
-# day1_git
-repositorio a eliminar para el primer dia de practicas
+# frezeer....
+
+__Bienvenido a mi primera practica de hit y github__
+
+esta es mi primera practica 🎤
+**espero**
+modificar
+las cosas un poco mas 🙄
